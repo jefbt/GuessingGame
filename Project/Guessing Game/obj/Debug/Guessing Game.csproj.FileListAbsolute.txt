@@ -1,0 +1,17 @@
+C:\Users\Avell B153 MAX\Documents\Documentos\Teste Hoplon\Projeto\Projeto Visual Studio\Guessing Game\Guessing Game\bin\Debug\Guessing Game.exe.config
+C:\Users\Avell B153 MAX\Documents\Documentos\Teste Hoplon\Projeto\Projeto Visual Studio\Guessing Game\Guessing Game\bin\Debug\Guessing Game.exe
+C:\Users\Avell B153 MAX\Documents\Documentos\Teste Hoplon\Projeto\Projeto Visual Studio\Guessing Game\Guessing Game\bin\Debug\Guessing Game.pdb
+C:\Users\Avell B153 MAX\Documents\Documentos\Teste Hoplon\Projeto\Projeto Visual Studio\Guessing Game\Guessing Game\obj\Debug\Guessing Game.csprojResolveAssemblyReference.cache
+C:\Users\Avell B153 MAX\Documents\Documentos\Teste Hoplon\Projeto\Projeto Visual Studio\Guessing Game\Guessing Game\obj\Debug\Guessing_Game.Properties.Resources.resources
+C:\Users\Avell B153 MAX\Documents\Documentos\Teste Hoplon\Projeto\Projeto Visual Studio\Guessing Game\Guessing Game\obj\Debug\Guessing Game.csproj.GenerateResource.Cache
+C:\Users\Avell B153 MAX\Documents\Documentos\Teste Hoplon\Projeto\Projeto Visual Studio\Guessing Game\Guessing Game\obj\Debug\Guessing Game.exe
+C:\Users\Avell B153 MAX\Documents\Documentos\Teste Hoplon\Projeto\Projeto Visual Studio\Guessing Game\Guessing Game\obj\Debug\Guessing Game.pdb
+C:\Users\Avell B153 MAX\Documents\Documentos\Teste Hoplon\Projeto\Projeto Visual Studio\Guessing Game\Guessing Game\obj\Debug\Guessing_Game.StartScreenForm.resources
+C:\Users\Avell B153 MAX\Documents\Documentos\Teste Hoplon\Projeto\Projeto Visual Studio\Guessing Game\Guessing Game\obj\Debug\Guessing_Game.QuestionForm.resources
+C:\Users\Avell B153 MAX\Documents\Documentos\Teste Hoplon\Projeto\Projeto Visual Studio\Guessing Game\Guessing Game\obj\Debug\Guessing_Game.WinScreenForm.resources
+C:\Users\Avell B153 MAX\Documents\Documentos\Teste Hoplon\Projeto\Projeto Visual Studio\Guessing Game\Guessing Game\obj\Debug\Guessing_Game.AnimalAddForm.resources
+C:\Users\Avell B153 MAX\Documents\Documentos\Teste Hoplon\Projeto\Projeto Visual Studio\Guessing Game\Guessing Game\obj\Debug\Guessing_Game.TraitAddForm.resources
+C:\Users\Avell B153 MAX\Documents\Documentos\Teste Hoplon\Projeto\Projeto Visual Studio\Guessing Game\Guessing Game\bin\Debug\Guessing Game.exe.manifest
+C:\Users\Avell B153 MAX\Documents\Documentos\Teste Hoplon\Projeto\Projeto Visual Studio\Guessing Game\Guessing Game\bin\Debug\Guessing Game.application
+C:\Users\Avell B153 MAX\Documents\Documentos\Teste Hoplon\Projeto\Projeto Visual Studio\Guessing Game\Guessing Game\obj\Debug\Guessing Game.exe.manifest
+C:\Users\Avell B153 MAX\Documents\Documentos\Teste Hoplon\Projeto\Projeto Visual Studio\Guessing Game\Guessing Game\obj\Debug\Guessing Game.application
